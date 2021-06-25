@@ -1,1 +1,1 @@
-# Analysing-prices-of-laptop-using-web-scraping
+# Analysing-prices-of-laptops-using-web-scraping
