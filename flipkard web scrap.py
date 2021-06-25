@@ -1,4 +1,3 @@
-import soupsieve.css_parser
 from bs4 import BeautifulSoup
 import requests
 import pandas as p
