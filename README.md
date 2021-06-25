@@ -12,7 +12,7 @@ The prior requirement for webscraping is that u must familier with basic html(be
 2)bs4(beautifulsoup):it help us to modify data and process the data.
 3)pandas:to store scraped data in csv file
 
-steps of web scraping:
+Steps of web scraping:
 
 1)Import required packages.
 
