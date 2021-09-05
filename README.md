@@ -19,7 +19,9 @@ The prior requirement for webscraping is that u must familier with basic html(be
 
 1)Import required packages.
 
-2)Pass to acess html content.
+2)Pass url to acess html content.
 
 3)Modify and store processed data.
+
+4)Store it in CSV file
 
