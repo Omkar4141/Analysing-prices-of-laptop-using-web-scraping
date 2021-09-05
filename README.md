@@ -28,3 +28,7 @@ The prior requirement for webscraping is that u must familier with basic html(be
 
 4)Store it in CSV file
 
+#Output
+
+<img src="https://github.com/Omkar4141/Analysing-prices-of-laptop-using-web-scraping/blob/main/Screenshot%20(18).png">
+
