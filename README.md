@@ -4,7 +4,7 @@ This project is comes under data science specifically under data mining.
 It is extraction of data from huge set of data .we have many libreries in python for web scraping like Beautifulsoup,Scrapy.
 
 # Web Scraping:
-is process of extracting data from websites later we use it for anlysis.
+It is process of extracting data from websites later we use it for anlysis.
 
 
 # About Project
