@@ -1,9 +1,9 @@
 # Analysing-prices-of-laptops-using-web-scraping
 This project is comes under data science specifically under data mining.
-#Data mining:
+# Data mining:
 It is extraction of data from huge set of data .we have many libreries in python for web scraping like Beautifulsoup,Scrapy.
 
-#Web Scraping:
+# Web Scraping:
 is process of extracting data from websites later we use it for anlysis.
 
 
@@ -15,7 +15,7 @@ The prior requirement for webscraping is that u must familier with basic html(be
 2)bs4(beautifulsoup):it help us to modify data and process the data.
 3)pandas:to store scraped data in csv file
 
-#Steps of web scraping:
+# Steps of web scraping:
 
 1)Import required packages.
 
