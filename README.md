@@ -7,7 +7,7 @@ It is extraction of data from huge set of data .we have many libreries in python
 is process of extracting data from websites later we use it for anlysis.
 
 
-
+# About Project
 In this project i have scraped website for analysing prices of laptop and stored it in csv .along with prices i have stored its name and rating also.
 The prior requirement for webscraping is that u must familier with basic html(because we have to scrape data by accessing html content) and  package which used for scraping website are following:
 
